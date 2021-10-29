@@ -12,16 +12,16 @@ We will compare 3 different [Hugging Face](https://huggingface.co/) models:
 
 *Théophile Blard, **French sentiment analysis with BERT**, (2020), [GitHub repository](https://github.com/TheophileBlard/french-sentiment-analysis-with-bert)*
 
-![camemBERT_results](http://url/to/img.png)
+![camemBERT_results](https://github.com/eleapttn/Hugging-Face-sentiment-analysis-twitter-AI-Notebooks-OVHcloud/blob/main/images-results/results_camembert.png)
 
 ### Sentiment Analysis with barthez-sentiment-classification
 
 *Eddine, Moussa Kamal and Tixier, Antoine J-P and Vazirgiannis, Michalis, **BARThez: a Skilled Pretrained French Sequence-to-Sequence Model**, (2020), [GitHub repository](https://github.com/moussaKam/BARThez)*
 
-![BARThez_results](http://url/to/img.png)
+![BARThez_results](https://github.com/eleapttn/Hugging-Face-sentiment-analysis-twitter-AI-Notebooks-OVHcloud/blob/main/images-results/results_barthez.png)
 
 ### Sentiment Analysis with bert-base-multilingual-uncased-sentiment
 
 *[NLP Town](https://www.nlp.town/)*
 
-![BERT_results](http://url/to/img.png)
+![BERT_results](https://github.com/eleapttn/Hugging-Face-sentiment-analysis-twitter-AI-Notebooks-OVHcloud/blob/main/images-results/results_bert.png)
