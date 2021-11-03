@@ -14,7 +14,7 @@ We will compare 3 different [Hugging Face](https://huggingface.co/) models:
 
 Tweets are divided into 2 classes according to their sentiment: **positive** or **negative**.
 
-![camemBERT_results](https://github.com/eleapttn/Hugging-Face-sentiment-analysis-twitter-AI-Notebooks-OVHcloud/blob/main/images-results/results_camembert.png)
+![camemBERT_results](https://github.com/eleapttn/Hugging-Face-sentiment-analysis-twitter-AI-Notebooks-OVHcloud/blob/main/images-results/results-camembert.png)
 
 ### Sentiment Analysis with barthez-sentiment-classification
 
@@ -30,4 +30,4 @@ Tweets are divided into 2 classes according to their sentiment: **positive** or 
 
 Tweets are divided into 5 classes, from 1 to 5 stars, according to their sentiment: 1 star corresponds to a **very negative** tweet while 5 stars corresponds to a **very positive** tweet.
 
-![BERT_results](https://github.com/eleapttn/Hugging-Face-sentiment-analysis-twitter-AI-Notebooks-OVHcloud/blob/main/images-results/results_bert.png)
+![BERT_results](https://github.com/eleapttn/Hugging-Face-sentiment-analysis-twitter-AI-Notebooks-OVHcloud/blob/main/images-results/results-bert.png)
