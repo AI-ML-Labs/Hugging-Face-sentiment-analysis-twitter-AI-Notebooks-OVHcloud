@@ -22,7 +22,7 @@ Tweets are divided into 2 classes according to their sentiment: **positive** or 
 
 Tweets are divided into 2 classes according to their sentiment: **positive** or **negative**.
 
-![BARThez_results](https://github.com/eleapttn/Hugging-Face-sentiment-analysis-twitter-AI-Notebooks-OVHcloud/blob/main/images-results/results_barthez.png)
+![BARThez_results]()
 
 ### Sentiment Analysis with bert-base-multilingual-uncased-sentiment
 
